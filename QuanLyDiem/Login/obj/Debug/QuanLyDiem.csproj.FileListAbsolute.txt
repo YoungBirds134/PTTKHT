@@ -1,0 +1,11 @@
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\Login.Form1.resources
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\Login.Gui.QuanLyDiem.resources
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\Login.Gui.TrangChinh.resources
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\bin\Debug\Login.exe.config
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\bin\Debug\Login.exe
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\bin\Debug\Login.pdb
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\Login.exe
+C:\Users\Huy\Desktop\PTTKHT\QuanLyDiem\Login\obj\Debug\Login.pdb
